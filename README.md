@@ -1,2 +1,4 @@
 # Salesperson-Dashboard_Excel-Project-3
-Cleaned the Salesperson dataset to get rid of any data inconsistencies by correcting them. Then created an interactive Dashboard to understand Salesperson performance and sales trends.
+• Used Data Type and Replace features to clean the data. 
+• Created Pivot Tables to summarise the data and Pivot Charts to visualise the data. 
+• Used Slicers and Timeline filter to create an interactive Dashboard to analyse and understand Salesperson performance and sales trends.
